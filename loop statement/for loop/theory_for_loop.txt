@@ -1,0 +1,21 @@
+for is a looping statement, the condition that repeat  how many times you want to loop through a block of code
+like from which number you want to start and from where you want to end
+
+syntax:
+for( logic from start;logic to end; update)
+{
+program statement;
+}
+
+example
+
+the bus travel dharwad to bangalore is 0 to 400km but you need to pick bus at hubli that is from 20km to dharwad and drop is bangalore 100km
+
+program logic
+
+for(i=20;i<=100;i++)
+{
+program statement;
+}
+
+

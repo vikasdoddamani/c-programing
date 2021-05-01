@@ -1,0 +1,18 @@
+The loop will always be executed at least once even if the condition is false.
+
+first it try to do update and last one it will end the number of loop
+
+syntax:
+do {
+code block;
+}
+while (condition);
+
+
+example:
+
+int a=10        -->logic start from 10
+do              --> it try to do a new update
+{
+i++;           ---> increase number or update new data
+}while(a<=20);   ---> loop end here / logic end here upto 20

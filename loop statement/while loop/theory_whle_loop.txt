@@ -1,0 +1,18 @@
+The while loop is a loops statement that through a block of code as long as a specified when condition is true but function of working while loop same as for loop but types is different in it types
+
+but starting logic is already declared out side of body but inside of loop you have to end the logic and update it
+
+systax:
+
+while(condiction)
+{
+program statement;
+}
+
+example 
+
+int a=5   ---> the logic is start from here
+while(a<=5)    ---> a logic end here
+{
+a++;          ---> update new data
+}
